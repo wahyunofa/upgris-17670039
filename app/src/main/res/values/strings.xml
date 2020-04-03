@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">UPGRIS (Tugas#17670039)</string>
+    <string name="alamat">Jl. Sidodadi Timur Nomor 24 - Dr. Cipto Semarang - indonesia</string>
+    <string name="content_pengertian">Universitas PGRI Semarang didirikan oleh Pengurus Daerah Tingkat I PGRI Provinsi Jawa Tengah
+        melalui Yayasan Pembina Lembaga Pendidikan Perguruan Tinggi (YPLP PT) PGRI Semarang dan merupakan perubahan bentuk
+        dari IKIP PGRI Semarang dengan Akademi Teknologi Semarang. Tujuan pendiriannya adalah untuk menyiapkan calon pemimipin
+        yang unggul dan berkarakter kebangsaan sehingga dapat menjadi teladan dalam kehidupan berbangsa dan bernegara dalam mencapai
+        kesejahteraan seluruh masyarakat Indonesia..
+    </string>
+    <string name="dummy">UPGRIS</string>
+    <string name="pengertian">Pengertian</string>
+    <string name="visi">Visi</string>
+    <string name="misi">Misi</string>
+    <string name="fakultas">Fakultas</string>
+    <string name="cvisi">
+      Menjadi Universitas yang Unggul dan Berjatidiri.
+    </string>
+    <string name="cmisi">Menyelenggarakan Catur Dharma (Pendidikan, Penelitian, Pengabdian kepada Masyarakat, dan Peneladanan)
+        untuk membentuk insan cendekia serta pemimpin yang unggul dan berkarakter Kebangsaan bagi kemaslahatan hidup dan kehidupan.
+    </string>
+    <string name="cfakultas">
+       1. Fakultas Ilmu Pendidikan\n
+       2. Fakultas Pendidikan Ilmu Pengetahuan Sosial dan Keolahragaan\n
+       3. Fakultas Pendidikan Matematika, Ilmu Pengetahuan Alam dan Teknologi Informasi\n
+       4. Fakultas Pendidikan Bahasa dan Seni\n
+       5. Fakultas Teknik dan Informatika\n
+       6. Fakultas Hukum\n
+       7. Fakultas Ekonomi dan Bisnis\n
+    </string>
+    <string name="call">(024) 8316377</string>
+    <string name="info">Website UPGRIS</string>
+    <string name="pusat">Informasi Lebih Lanjut :</string>
+    <string name="kontak">Contact</string>
+    <string name="upgris">Universitas PGRI Semarang</string>
+
+</resources>
